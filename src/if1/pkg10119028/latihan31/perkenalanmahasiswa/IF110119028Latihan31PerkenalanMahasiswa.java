@@ -23,7 +23,7 @@ public class IF110119028Latihan31PerkenalanMahasiswa {
         // TODO code application logic here
         Mahasiswa mahasiswa1 = new Mahasiswa();
         mahasiswa1.nim = "10119010";
-        mahasiswa1.nama = "Maulana Imam Malik";
+        mahasiswa1.nama = "Rizal Sihombing";
         
         Mahasiswa mahasiswa2 = new Mahasiswa();
         mahasiswa2.nim = "10110269";
